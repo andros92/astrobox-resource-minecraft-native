@@ -1,0 +1,51 @@
+{
+  "item": {
+    "id": "minecraft-native",
+    "restype": "canopus",
+    "name": "我的世界",
+    "description": "面向小米手环的非官方中文原生方块生存游戏。横屏三维探索、采集建造、背包合成、熔炉箱子、多世界存档，以及主世界、下界与末地。仅支持小米手环9 Pro固件3.1.175、10 Pro固件3.101.043；不支持其他固件。4元一次购买，两款机型共用购买资格。这是初版，可能存在Bug，欢迎加入QQ群872095216反馈问题；开发者：砂糖橘。",
+    "preview": [
+      "media/01-world.png",
+      "media/02-inventory.png",
+      "media/03-furnace.png",
+      "media/04-worlds.png",
+      "media/05-settings.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.png",
+    "author": [
+      {
+        "name": "17609",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "0.7.3",
+      "file_name": "downloads/Minecraft-native-0.7.3-10Pro-3.101.043.bin",
+      "versionCode": 1795,
+      "updatelogs": [
+        {
+          "version": "0.7.3",
+          "content": "仅适配小米手环10 Pro固件3.101.043。\n保留三维探索、采集建造、三维度、合成、箱子、熔炉和多世界存档。\n流畅档调整为28×20，其他画质与材质保留。\n优化被遮挡液体、地面精确投影、按钮快捷栏缓存与像素格式转换。\n安装后恢复简洁数字时钟。\n此提交用于原生模块源码审核；正式上架包由审核人员审计后编译。"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "0.7.3",
+      "file_name": "downloads/Minecraft-native-0.7.3-9Pro-3.1.175.bin",
+      "versionCode": 1795,
+      "updatelogs": [
+        {
+          "version": "0.7.3",
+          "content": "仅支持小米手环9 Pro固件3.1.175，不支持其他固件。\n保留现有三维探索、三个维度、采集建造、背包合成、箱子熔炉与多世界存档。\n安装资源无损分块压缩，安装包约560KB；分块解压和回读，恢复简洁数字时钟。\n流畅档28×20，其他画质不变。完整源码仅私下交模块审核人员，最终模块由审核人员编译。"
+        }
+      ]
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
