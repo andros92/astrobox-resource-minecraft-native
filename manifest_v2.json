@@ -1,0 +1,40 @@
+{
+  "item": {
+    "id": "minecraft-native",
+    "restype": "canopus",
+    "name": "我的世界",
+    "description": "面向小米手环 10 Pro 的非官方中文原生方块生存游戏。横屏三维探索、采集建造、背包合成、熔炉箱子、多世界存档，以及主世界、下界与末地。当前仅发布 3.101.043 固件版本；9 Pro 3.1.175 精简包暂仅自测。4 元一次购买，沿用两款机型共用商品。开发者：砂糖橘，QQ群：872095216。",
+    "preview": [
+      "media/01-world.png",
+      "media/02-inventory.png",
+      "media/03-furnace.png",
+      "media/04-worlds.png",
+      "media/05-settings.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.png",
+    "author": [
+      {
+        "name": "17609",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "0.0.0",
+      "file_name": "downloads/Minecraft-native-0.7.3-10Pro-3.101.043.bin",
+      "versionCode": 0,
+      "updatelogs": [
+        {
+          "version": "0.7.3",
+          "content": "仅适配小米手环10 Pro固件3.101.043。\n保留三维探索、采集建造、三维度、合成、箱子、熔炉和多世界存档。\n流畅档调整为28×20，其他画质与材质保留。\n优化被遮挡液体、地面精确投影、按钮快捷栏缓存与像素格式转换。\n安装后恢复简洁数字时钟。\n此提交用于原生模块源码审核；正式上架包由审核人员审计后编译。"
+        }
+      ]
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
