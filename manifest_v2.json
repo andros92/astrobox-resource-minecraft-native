@@ -23,9 +23,9 @@
   "links": [],
   "downloads": {
     "xmb10p": {
-      "version": "0.13.5",
-      "file_name": "downloads/Minecraft-0.13.5-10Pro.bin",
-      "versionCode": 3333,
+      "version": "0.13.7",
+      "file_name": "downloads/Minecraft-native-0.13.7-10Pro-3.101.043.bin",
+      "versionCode": 3335,
       "updatelogs": [
         {
           "version": "0.13.5",
@@ -34,9 +34,9 @@
       ]
     },
     "xmb9p": {
-      "version": "0.13.5",
-      "file_name": "downloads/Minecraft-0.13.5-9Pro.bin",
-      "versionCode": 3333,
+      "version": "0.13.7",
+      "file_name": "downloads/Minecraft-native-0.13.7-9Pro-175+187+190.bin",
+      "versionCode": 3335,
       "updatelogs": [
         {
           "version": "0.13.5",
@@ -45,9 +45,9 @@
       ]
     },
     "xmb9": {
-      "version": "0.14.12",
-      "file_name": "downloads/Minecraft-Band9-3.1.32-0.14.12.bin",
-      "versionCode": 3412,
+      "version": "0.14.13",
+      "file_name": "downloads/我的世界-小米手环9-3.1.32-0.14.13.bin",
+      "versionCode": 3597,
       "updatelogs": [
         {
           "version": "0.14.12",
